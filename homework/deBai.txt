@@ -1,0 +1,4 @@
+Cho F0 = {17, 7, 27, 9, 19, 29, 15, 21, 16, 37, 18, 57}(gồm có n = 12 phần tử).Sắp xếp F0 tăng dần theo 3 phương pháp sau:
+1.Theo phương pháp trộn Run
+2.Theo phương pháp trộn tự nhiên
+3.Theo phương pháp trộn đa lối cân bằng
