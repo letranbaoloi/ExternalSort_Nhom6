@@ -11,7 +11,6 @@ Giảng viên hướng dẫn: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
 
 ## Thành viên nhóm 
 
-#### Get all items
 
 
 
