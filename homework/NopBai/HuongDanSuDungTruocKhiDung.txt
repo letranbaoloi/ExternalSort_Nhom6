@@ -1,1 +1,8 @@
-Mọi người nộp bài tập trong folder này nha 
+ĐỌC KĨ CÁC BƯỚC ĐỂ NỘP BÀI : 
+-Bước 1 : Nhấn vào file NopBai.md 
+-Bước 2 : Nhấn vào hình cây bút chì kế nút "blame"
+-Bước 3 : Trong phần "Edit file" , mọi người ghi mssv của mình và mssv của các thành viên trong nhóm 
+-Bước 4 : Kéo xuống phần "Propose change" có dòng dưới update ghi mssv của mình và các thành viên trong nhóm . Rồi nhấn nút màu xanh lá Propose changes . 
+-Bước 5 : Nhấn vào nút Create pull request 
+-Bước 6 : Trong phần "Write" , mọi người nhấn vào hình cái kẹp để đính kèm file , rồi để ý phía dưới có dòng chữ "Attach file by dragging and dropping ....." , nhấn vào và chọn file.
+-Bước 7 : Đợi file upload lên và nhấn nút xanh Create pull request .
