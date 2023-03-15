@@ -20,7 +20,7 @@
 | :--------           | :------- | :------------------------- |
 | `Lê Đào Xuân Thành` | `21522595` | 21522595@gm.uit.edu.vn |
 | `Lê Trần Bảo Lợi  ` | `21522295` | 21522295@gm.uit.edu.vn |
-| `Nguyễn Duy Phúc. ` | `string` | **Required**. Your API key |
+| `Nguyễn Duy Phúc. ` | `18521255` | 18521255@gm.uit.edu.vn |
 
 ## Chủ đề
 Sắp xếp ngoại (External sort)
