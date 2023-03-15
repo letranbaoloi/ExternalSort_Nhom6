@@ -4,7 +4,6 @@
 
 ## Giới thiệu môn học
 
-This project is used by the following companies:
 
 - Tên môn học: Cấu trúc dữ liệu và giải thuật nâng cao
 - Mã môn học: CS523
