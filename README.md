@@ -27,5 +27,5 @@ Sắp xếp ngoại (External sort)
 ## Link kahoot
 https://create.kahoot.it/share/external-sort/873fd15d-d2b5-4d71-8806-45d97d7c23a1
 
-##Link demo web 
+## Link demo web 
 https://leethanh24.github.io/external_sort_visualization/
